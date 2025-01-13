@@ -21,3 +21,5 @@ Check how the assortment type affects sales
 How does the distance to the next competitor affect sales? What if the store and its competitors all happen to be in city centers, does the distance matter in that case?
 
 How does the opening or reopening of new competitors affect stores? Check for stores with NA as competitor distance but later on have values for competitor distance
+
+This project also involves building, training, and deploying an LSTM model to predict sales data. The model is served via a REST API for real-time predictions.
